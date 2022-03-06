@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_musictheory_github_io=self.webpackChunkopen_musictheory_github_io||[]).push([[1713],{3457:function(t){t.exports=JSON.parse('{"introduction":{"allTagsPath":"/blog/tags","slug":"/blog/tags/introduction","name":"introduction","count":1,"permalink":"/blog/tags/introduction"}}')}}]);
