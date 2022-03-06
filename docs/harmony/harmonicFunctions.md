@@ -16,7 +16,7 @@ A theory of harmonic functions is based on three fundamental principles:
 
 (Note the absence of _root_ and _quality_ from consideration here.)
 
-Because [tendency is style-specific](tendency.html), the same chord can have different functions in different musical styles. For instance, the kinds of functions we find in classical music are different from those we find in pop/rock songs from the Billboard charts. And though there are some general harmonic traits that are common to most eighteenth- and nineteenth-century Western composers (what we call the "common practice"), when we look in closer detail, we find some significant differences in the way Bach, Mozart, Brahms, and others compose their harmonic progressions.
+Because [tendency is style-specific](/docs/voice-leading-and-model-composition/strict-four-voice-composition/tendency), the same chord can have different functions in different musical styles. For instance, the kinds of functions we find in classical music are different from those we find in pop/rock songs from the Billboard charts. And though there are some general harmonic traits that are common to most eighteenth- and nineteenth-century Western composers (what we call the "common practice"), when we look in closer detail, we find some significant differences in the way Bach, Mozart, Brahms, and others compose their harmonic progressions.
 
 Our initial exploration of harmonic functions will engage the general "common practice" that is shared by most eighteenth- and nineteenth-century Western composers. As we explore specific genres, composers, and works within that common practice, we will have opportunity to explore the more nuanced differences between composers, as well as to move beyond common-practice Western art music to include other styles, such as pop/rock.
 
@@ -70,17 +70,23 @@ Also note that because the III<sup>7</sup> chord's scale-degrees do not wholly b
 
 ## Labeling chords
 
-There are two ways in which we will label chords according to function. The first is to label chords with Roman numerals, thoroughbass figures, and functional labels. When doing so, place the appropriate Roman numeral _below_ the bass line, the thoroughbass figure _above_ the bass line (since it represents the upper voices), and place a functional label **T**/**S**/**D** below the Roman numeral (no **Tx**; simply call a **VI** chord **T**). For now this label can simply apply T, S, or D to individual chords; in the future, we will alter this practice slightly in order to show [functional prolongation](harmonicSyntax2.html). The first example shows individual chord functions, and the second example shows functional prolongation.
+<!-- TODO: UPDATE links -->
+
+There are two ways in which we will label chords according to function. The first is to label chords with Roman numerals, thoroughbass figures, and functional labels. When doing so, place the appropriate Roman numeral _below_ the bass line, the thoroughbass figure _above_ the bass line (since it represents the upper voices), and place a functional label **T**/**S**/**D** below the Roman numeral (no **Tx**; simply call a **VI** chord **T**). For now this label can simply apply T, S, or D to individual chords; in the future, we will alter this practice slightly in order to show [functional prolongation](#). The first example shows individual chord functions, and the second example shows functional prolongation.
 
 ![](/Graphics/harmony/RNsIndividualFunctions.png)
 
 ![](/Graphics/harmony/RNsFunctionalProlongation.png)
 
-The second way to label a harmonic progression is what Quinn calls _functional bass_. Functional bass symbols combine a chord's function (**T**, **S**, **D**, or **Tx**) with an Arabic numeral denoting the scale degree of its bass note. A tonic chord with _do_ in the bass is **T1**, a dominant chord with _ti_ in the bass is **D7**, etc. If the bass note is chromatically altered, use a **+** or **–** to denote raised or lowered (_la_ and _ti_ in minor do not count, since _le_, _la_, _te_, and _ti_ all belong to minor, but you can use +/– for clarity if you like). And if there is a chromatically altered note anywhere in the chord, put the functional bass symbol inside square brackets: **[S6]**, **[S+4]**, **[T–7]**, etc. (See [Chromatically altered subdominant chords](alteredSubdominants), [Applied chords](appliedChords), and [Modal mixture](modalMixture) for more information on common chromatically altered chords.)
+<!-- TODO: UPDATE links -->
+
+The second way to label a harmonic progression is what Quinn calls _functional bass_. Functional bass symbols combine a chord's function (**T**, **S**, **D**, or **Tx**) with an Arabic numeral denoting the scale degree of its bass note. A tonic chord with _do_ in the bass is **T1**, a dominant chord with _ti_ in the bass is **D7**, etc. If the bass note is chromatically altered, use a **+** or **–** to denote raised or lowered (_la_ and _ti_ in minor do not count, since _le_, _la_, _te_, and _ti_ all belong to minor, but you can use +/– for clarity if you like). And if there is a chromatically altered note anywhere in the chord, put the functional bass symbol inside square brackets: **[S6]**, **[S+4]**, **[T–7]**, etc. (See [Chromatically altered subdominant chords](#), [Applied chords](#), and [Modal mixture](#) for more information on common chromatically altered chords.)
 
 ![](/Graphics/harmony/FunctionalBassFunctions.png)
 
-Quinn also advocates using what I call _interpreted functional bass_. This nomenclature uses the same symbols, but uses parentheses to denote [_contrapuntal prolongation_](http://openmusictheory.com/harmonicSyntax2) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
+<!-- TODO: UPDATE links -->
+
+Quinn also advocates using what I call _interpreted functional bass_. This nomenclature uses the same symbols, but uses parentheses to denote [_contrapuntal prolongation_](#) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
 
 ![](/Graphics/harmony/InterpretedFunctionalBass.png)
 

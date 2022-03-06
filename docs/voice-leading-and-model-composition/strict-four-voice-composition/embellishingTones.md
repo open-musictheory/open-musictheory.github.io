@@ -50,7 +50,9 @@ An anticipation is essentially an otherwise stable tone that comes too early. An
 
 ![](/Graphics/embellishingTones/syncopatedNote.png)
 
-[Syncopation](syncopation) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival.
+<!-- TODO: Update links -->
+
+[Syncopation](#) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival.
 
 ## Suspension (SUS)
 
