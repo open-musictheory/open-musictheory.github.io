@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Open Music Theory Blog</title>
+        <link>https://open-musictheory.github.io/vi/blog</link>
+        <description>Open Music Theory Blog</description>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://open-musictheory.github.io/vi/blog/2022/03/06/introduction</link>
+            <guid>/2022/03/06/introduction</guid>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduction]]></description>
+            <content:encoded><![CDATA[<p>Introduction</p>]]></content:encoded>
+            <category>introduction</category>
+        </item>
+    </channel>
+</rss>

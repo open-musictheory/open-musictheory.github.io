@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://open-musictheory.github.io/vi/blog</id>
+    <title>Open Music Theory Blog</title>
+    <updated>2022-03-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://open-musictheory.github.io/vi/blog"/>
+    <subtitle>Open Music Theory Blog</subtitle>
+    <icon>https://open-musictheory.github.io/vi/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introduction]]></title>
+        <id>/2022/03/06/introduction</id>
+        <link href="https://open-musictheory.github.io/vi/blog/2022/03/06/introduction"/>
+        <updated>2022-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <content type="html"><![CDATA[<p>Introduction</p>]]></content>
+        <author>
+            <name>Nguyễn Văn Đức</name>
+            <uri>https://github.com/ducnguyen96</uri>
+        </author>
+        <category label="introduction" term="introduction"/>
+    </entry>
+</feed>
