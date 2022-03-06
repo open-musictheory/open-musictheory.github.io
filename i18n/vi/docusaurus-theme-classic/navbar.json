@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "OpenMusicTheory",
+    "description": "The title in the navbar"
+  },
+  "item.label.Contents": {
+    "message": "Contents",
+    "description": "Navbar item with label Contents"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Youtube": {
+    "message": "Youtube",
+    "description": "Navbar item with label Youtube"
+  },
+  "item.label.Source": {
+    "message": "Source",
+    "description": "Navbar item with label Source"
+  }
+}

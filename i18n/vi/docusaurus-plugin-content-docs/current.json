@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Fundamentals": {
+    "message": "Nền tảng",
+    "description": "The label for category Fundamentals in sidebar tutorialSidebar"
+  }
+}
