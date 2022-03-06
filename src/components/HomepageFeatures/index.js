@@ -4,19 +4,24 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Contents",
+    title: "Docs",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
-    description: <></>,
+    description: (
+      <>
+        Fundamentals: notations, meter, protonotation, pitches and octave designations, etc. To more advanced concept:
+        composition, harmony, etc.
+      </>
+    ),
   },
   {
     title: "Blog",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <></>,
+    description: <>Music stores, best practices, etc. </>,
   },
   {
     title: "Youtube",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
-    description: <></>,
+    description: <>Share performances</>,
   },
 ];
 

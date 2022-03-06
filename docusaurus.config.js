@@ -11,7 +11,7 @@ const isI18nStaging = process.env.I18N_STAGING === "true";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Open Music Theory",
-  tagline: "Music Theory For Everyone",
+  tagline: "The z-library for music theory",
   url: "https://open-musictheory.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -91,7 +91,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Contents",
+            label: "Docs",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
@@ -107,12 +107,12 @@ const config = {
           {
             type: "localeDropdown",
             position: "right",
-            // dropdownItemsAfter: [
-            //   {
-            //     href: "https://github.com/facebook/docusaurus/issues/3526",
-            //     label: "Help Us Translate",
-            //   },
-            // ],
+            dropdownItemsAfter: [
+              {
+                href: "/blog/2022/03/06/contribution-guidelines",
+                label: "Help Us Translate",
+              },
+            ],
           },
         ],
       },
@@ -123,7 +123,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Contents",
+                label: "Docs",
                 to: "/docs/intro",
               },
             ],
