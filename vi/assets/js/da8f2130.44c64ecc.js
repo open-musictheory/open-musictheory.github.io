@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_musictheory_github_io=self.webpackChunkopen_musictheory_github_io||[]).push([[6898],{6694:function(e){e.exports=JSON.parse('{"guidelines":{"allTagsPath":"/vi/blog/tags","slug":"/vi/blog/tags/guidelines","name":"guidelines","count":1,"permalink":"/vi/blog/tags/guidelines"}}')}}]);

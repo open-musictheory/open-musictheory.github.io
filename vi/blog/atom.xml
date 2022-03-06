@@ -8,16 +8,14 @@
     <subtitle>Open Music Theory Blog</subtitle>
     <icon>https://open-musictheory.github.io/vi/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Introduction]]></title>
-        <id>/2022/03/06/introduction</id>
-        <link href="https://open-musictheory.github.io/vi/blog/2022/03/06/introduction"/>
+        <title type="html"><![CDATA[Contribution guidelines]]></title>
+        <id>/2022/03/06/contribution-guidelines</id>
+        <link href="https://open-musictheory.github.io/vi/blog/2022/03/06/contribution-guidelines"/>
         <updated>2022-03-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Giới thiệu]]></summary>
-        <content type="html"><![CDATA[<p>Giới thiệu</p>]]></content>
         <author>
             <name>Nguyễn Văn Đức</name>
             <uri>https://github.com/ducnguyen96</uri>
         </author>
-        <category label="introduction" term="introduction"/>
+        <category label="guidelines" term="guidelines"/>
     </entry>
 </feed>
