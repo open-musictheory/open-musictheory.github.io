@@ -10,3 +10,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 ## How to contribute a translation
 
 Please visit [Contribution guidelines](https://open-musictheory.github.io/blog/2022/03/06/contribution-guidelines).
+
+## How to contribute a content
+
+Please visit [Contribution guidelines](https://open-musictheory.github.io/blog/2022/03/06/contribution-guidelines).
