@@ -76,9 +76,9 @@ const config = {
     ({
       algolia: {
         contextualSearch: true,
-        appId: "D7GGKMYV4U",
-        apiKey: "4ecf77a6d860f569d4e043afa4277a14",
-        indexName: "test",
+        appId: "QQISRUG5LU",
+        apiKey: "f9cfbe565cbfbe43ab60485d459bd592",
+        indexName: "open-musictheory",
       },
       navbar: {
         title: "OpenMusicTheory",
