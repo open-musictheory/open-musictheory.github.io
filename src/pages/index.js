@@ -25,6 +25,14 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <section style={{ display: "flex", justifyContent: "center" }}>
+          <p>Credit:</p>
+          <ul>
+            <li>
+              <a href="http://openmusictheory.com">openmusictheory.com</a>
+            </li>
+          </ul>
+        </section>
       </main>
     </Layout>
   );

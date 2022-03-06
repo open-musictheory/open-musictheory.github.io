@@ -1,7 +1,7 @@
 {
   "title": {
     "message": "OpenMusicTheory",
-    "description": "The title in the navbar"
+    "description": "Nơi kiến thức nhạc lý được open free cho tất cả mọi người"
   },
   "item.label.Contents": {
     "message": "Contents",
@@ -9,14 +9,14 @@
   },
   "item.label.Blog": {
     "message": "Blog",
-    "description": "Navbar item with label Blog"
+    "description": "Chia sẻ các blog thú vị về nhạc lý nói riêng cũng như âm nhạc nói chung"
   },
   "item.label.Youtube": {
     "message": "Youtube",
-    "description": "Navbar item with label Youtube"
+    "description": "Các videos về nhạc lý nói riêng và âm nhạc nói chung"
   },
   "item.label.Source": {
     "message": "Source",
-    "description": "Navbar item with label Source"
+    "description": "source code của openmusictheory"
   }
 }

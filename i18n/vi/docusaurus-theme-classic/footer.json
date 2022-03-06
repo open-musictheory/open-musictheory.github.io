@@ -1,14 +1,14 @@
 {
   "link.title.Docs": {
-    "message": "Docs",
+    "message": "Tài liệu",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Cộng đồng",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Khác",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Contents": {
