@@ -6,5 +6,21 @@
   "sidebar.tutorialSidebar.category.Fundamentals": {
     "message": "Nền tảng",
     "description": "The label for category Fundamentals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Voice-leading and Model composition": {
+    "message": "Voice-leading and Model composition",
+    "description": "The label for category Voice-leading and Model composition in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Strict two-voice composition (species counterpoint)": {
+    "message": "Strict two-voice composition (species counterpoint)",
+    "description": "The label for category Strict two-voice composition (species counterpoint) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Strict four-voice composition": {
+    "message": "Strict four-voice composition",
+    "description": "The label for category Strict four-voice composition in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Harmony": {
+    "message": "Harmony",
+    "description": "The label for category Harmony in sidebar tutorialSidebar"
   }
 }
