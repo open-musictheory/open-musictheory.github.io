@@ -6,42 +6,42 @@ sidebar_position: 1
 
 ### Nốt
 
-When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a _notehead_ (either empty or filled in), and optionally can include a _stem_, _beam_, _dot_, or _flag_.
+Khi được viết trên một khuông nhạc, một nốt chỉ ra một giá trị về cao độ - pitch(độ, rê, mi) và nhịp điệu - rhythm(nốt đơn, nốt trắng). Ký hiệu chứa một _đầu nốt - notehead (rỗng hoặc đặc)_, và có thể có thể thêm _thân nốt - stem_, _beam_, _chấm dôi (dot)_ hoặc _dấu móc (flag)_.
 
 ![image](/Graphics/noteillustration.png)
 
-### Khuông nhạc (staff, stave)
+### Khuông nhạc
 
-Notes can't convey their pitch information without being placed on a staff. A staff consists of five horizontal lines, evenly spaced. The plural of staff is _staves_.
+Nốt không thể truyền đạt thông tin về cao độ của chúng nếu không được đặt trên khuông nhạc. Một khuông nhạc chứa 5 dòng kẻ ngang cách đều nhau. Số nhiều của staff là _staves_.
 
-### Khóa nhạc (Clefs)
+### Khóa nhạc
 
-Notes _still_ can't convey their pitch information if the staff doesn't include a clef. A clef indicates which pitches are assigned to the lines and spaces on a staff. The two most commonly used clefs are the _treble_ and _bass_ clef; others that you'll see relatively frequently are _alto_ and _tenor_ clef.
+Nốt cũng không thể truyền đạt thông tin về cao độ nếu khuông không có khóa nhạc. Một khóa nhạc cho chúng ta biết về cao độ tương ứng của các dòng kẻ cũng như các khoảng chứa trên một khuông nhạc. Hai khóa nhạc được sử dụng nhiều nhất là _khóa sol_ và _khóa trầm_; các loại khác mà bạn cũng sẽ thấy khá nhiều đó là _khóa đô alto_ và _khóa đô tenor_.
 
-Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
+Dưới đây là nốt C4(đô) được đặt trên các khóa son, khóa trầm, khóa đô alto và khóa đô tenor.
 
 ![image](/Graphics/clefs.png)
 
-### Khuông nhạc lớn (Grand staff)
+### Khuông nhạc lớn
 
-The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. The staves are connected by a curly brace. Grand staves are used frequently for notating piano music and other polyphonic instruments.
+Một khoang nhạc lớn sẽ chứa 2 khuông, 1 sử dụng khóa son và cái còn lại sử dụng khóa trầm. Các khuông nhạc được nối với nhau bằng một ngoặc nhọn. Các khuông nhạc lớn thường được sử dụng cho ký hiệu các bản nhạc piano, và các nhạc cụ đa âm khác.
 
-### Dòng kẻ phụ (Ledger lines)
+### Dòng kẻ phụ
 
-When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called _ledger lines._ In the example below, From Haydn's Piano Sonata in G (Hob. XVI: 39), Ab5 occurs just above the treble staff in the right hand, and G3 and B3 occur just below the treble staff in the left hand.
+Khi khoảng cao độ của một bản nhạc vượt quá khoảng mà khuông nhạc có thể biểu diễn, các dòng kẻ phụ được thêm vào để giúp chúng ta đọc cao độ một cách dễ dàng hơn. Trong ví dụ ở phía dưới, được lấy ra từ bản _Haydn's Piano Sonata in G (Hob. XVI: 39)_, nốt Ab5(La giáng 5) nằm trên khuông nhạc khóa son còn son 3 và si 3 thì nằm dưới khuông nhạc khóa trầm.
 
 ![image](/Graphics/ledgerLines.png)
 
-### Dấu hóa (Accidentals)
+### Dấu hóa
 
-Accidentals are used to indicate when a pitch has been raised or lowered. They are written to the _left_ of the pitch.
+Dấu hóa được sử dụng để chỉ ra rằng cao độ của nốt được tăng hay giảm. Chúng được viết bên trài của nốt.
 
-- When you lower one of the white notes of the piano by a semitone, you add a flat.
-- When you raise one of the white notes of the piano by a semitone, you add a sharp.
-- When you raise a note that is already flat by a semitone, you add a natural.
-- When you lower a note that is already flat by a semitone, you add a double flat.
-- When you raise a note that is already sharp by a semitone, you add a double sharp.
+- Khi bạn hạ một trong các nốt trắng của piano nửa cung, bạn thêm 1 dấu giáng.
+- Khi bạn tăng một trong các nốt trắng của piano nửa cung, bạn thêm 1 dấu thăng.
+- Khi bạn tăng một nốt mà đã được hạ nửa cung, bạn thêm 1 dấu bình.
+- Khi bạn hạ một nốt mà đã được hạ nửa cung, bạn thêm 1 dấu giáng kép.
+- Khi bạn tăng một nốt mà đã được tăng nửa cung, bạn thêm 1 dấu thăng kép.
 
-The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
+Bên dưới là các ký hiệu cho giáng, bình, thăng, thăng kép, giáng kép.
 
 ![image](/Graphics/accidentals.png)
