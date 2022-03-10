@@ -58,6 +58,18 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "books",
+        path: "books",
+        routeBasePath: "books",
+        sidebarPath: require.resolve("./sidebars.js"),
+      },
+    ],
+  ],
+
   i18n: {
     defaultLocale: "en",
     // eslint-disable-next-line no-nested-ternary
@@ -92,6 +104,12 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Docs",
+          },
+          {
+            to: "/books/basic-music-theory/khai-niem-ve-am-nhac",
+            label: "Books",
+            position: "left",
+            activeBaseRegex: `/books/`,
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
